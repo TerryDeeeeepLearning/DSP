@@ -1,0 +1,11 @@
+PyQt5
+sounddevice
+matplotlib
+numpy
+librosa
+soundfile
+pyaudio
+seaborn
+gTTS
+SpeechRecognition
+scipy
